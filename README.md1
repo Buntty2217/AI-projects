@@ -1,7 +1,9 @@
+Hi My Name is G Venkata Sravan
+AI based Project used ML models and trained data and we test the data
 # 🥗 Diet Recommendation System (ML Project)
 
 This project uses a Decision Tree Classifier to recommend a diet plan based on user inputs like age, BMI, activity level, and fitness goals.
-
+I have analyzed the ML models the Decision trees are more helpful to me in the process off creating this type of projects
 ## 🚀 Features
 - Predicts diet plan (Low Carb / Balanced / High Protein)
 - Calculates BMI automatically
